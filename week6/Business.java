@@ -1,3 +1,5 @@
+//Worawut Aunkham 632115039
+
 package week6;
 
 public class Business extends Person {
