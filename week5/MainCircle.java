@@ -1,5 +1,7 @@
 //Worawut Aunkham 632115039
 
+package week5;
+
 public class MainCircle {
     public static void main(String[] args) {
         Circle cir1 = new Circle(0.0, 0.0);

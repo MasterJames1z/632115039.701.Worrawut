@@ -1,5 +1,7 @@
 //Worawut Aunkham 632115039
 
+package week5;
+
 public class NerfGun {
     int ammo = 0;
     static int gunID = 0;

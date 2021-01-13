@@ -1,5 +1,7 @@
 //Worawut Aunkham 632115039
 
+package week5;
+
 public class MainApplication {
 	public static void main(String[] args) {
 		NerfGun gun1 = new NerfGun();
