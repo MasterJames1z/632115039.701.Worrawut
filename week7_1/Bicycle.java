@@ -4,7 +4,7 @@ public class Bicycle {
     public Bicycle() {
         this.spped = 10;
     }
-
+    
     public void isCurrent() {
         if (this.spped <= 99) {
             System.out.println("Start speed is " + spped);

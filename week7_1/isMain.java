@@ -11,6 +11,7 @@ public class isMain {
         System.out.println("Moutain bicycle: ");
         Mountain mou = new Mountain();
         mou.isCurrent();
+        mou.isUp();
         mou.isGear(2);
         mou.isBreak();
         mou.isGear(3);
