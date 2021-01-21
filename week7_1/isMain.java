@@ -14,10 +14,11 @@ public class isMain {
         mou.isGear(2);
         mou.isBreak();
         mou.isGear(3);
+        mou.isUp();
         mou.isGear(4);
+        mou.isUp();
         mou.isGear(5);
         mou.isGear(6);
-        mou.isGear(7);
 
     }
 
