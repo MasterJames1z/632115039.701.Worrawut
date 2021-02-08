@@ -1,4 +1,6 @@
- class Tech extends Person{
+package week8;
+
+class Tech extends Person {
     
         String workState;
     

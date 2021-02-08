@@ -1,4 +1,6 @@
-public class Main{
+package week10;
+
+public class Main {
     public static void main(String[] args) {
         Shape a1;
         Rectangle a2;

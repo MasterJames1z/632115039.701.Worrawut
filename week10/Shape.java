@@ -1,3 +1,5 @@
+package week10;
+
 public class Shape {
     int width;
     int heigh;

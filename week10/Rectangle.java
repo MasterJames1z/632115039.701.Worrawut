@@ -1,4 +1,6 @@
-class Rectangle extends Shape{
+package week10;
+
+class Rectangle extends Shape {
     int width;
     int heigh;
 

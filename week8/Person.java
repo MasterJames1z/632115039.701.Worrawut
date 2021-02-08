@@ -1,3 +1,5 @@
+package week8;
+
 public class Person {
     String name;
     int bornYear;

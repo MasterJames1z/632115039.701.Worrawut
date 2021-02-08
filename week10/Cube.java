@@ -1,3 +1,5 @@
+package week10;
+
 class Cube extends Rectangle {
     int width;
     int heigh;

@@ -1,3 +1,5 @@
+package week8;
+
 class Tu extends Person {
     String workState;
 

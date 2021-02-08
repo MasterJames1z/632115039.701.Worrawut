@@ -1,4 +1,6 @@
-class Sheriff extends Person{
+package week8;
+
+class Sheriff extends Person {
     String workState;
 
     public Sheriff(String name, int bornYear, String workState){

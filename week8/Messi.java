@@ -1,4 +1,6 @@
-public class Messi extends Person{
+package week8;
+
+public class Messi extends Person {
         String workState;
     
         public Messi(String name, int bornYear, String workState){

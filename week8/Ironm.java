@@ -1,3 +1,5 @@
+package week8;
+
 public class Ironm extends Person {
     String workState;
 
